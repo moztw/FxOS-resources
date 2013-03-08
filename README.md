@@ -25,4 +25,7 @@
     * [serpent](https://github.com/fwenzel/serpent) (built with mortar game stub) | [Download](/serpent-master.zip)
     * [Chrono](https://github.com/alcacoop/gaia-chrono-app/) (built with mortar app stub) | [Download](/chrono-master.zip)
     * [Roller](https://github.com/ednapiranha/roller/) (advanced example app with node.js backend) | [Download](/chrono-master.zip)
-* Screencast: [Mozilla Apps Ecosystem - Architecture Pt 1](http://www.youtube.com/watch?v=7jhTsvYPeN8) by Bill Walker
+* Architecture of the Mozilla Apps Ecosystem by Bill Walker
+    * [Part 1 - Systems & Concepts](http://youtu.be/ZNYOxn33RIw)
+    * [Part 2](http://youtu.be/cTidKeU_NXA)
+    * [Part 3 - Data Flows & Implementation](http://youtu.be/a9Z8DDYdS2U)
