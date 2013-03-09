@@ -9,6 +9,7 @@
 * [mortar-layouts](https://github.com/mozilla/mortar-layouts): the UI library powering mortar list-detail and tab view | [README](/mortar-layouts-readme.markdown)
 
 ## Running FirefoxOS on your computer
+* [Desktop Build](http://informationisart.com/11/)
 * [Firefox OS Simulator](https://github.com/mozilla/r2d2b2g): Firefox add-on that allows you install pages as apps and run the simulator on your machine
     * [Linux](/firefox_os_simulator-2.0-fx-linux.xpi)
     * [Mac](/firefox_os_simulator-2.0-fx-mac.xpi)
